@@ -33,6 +33,6 @@ It provides user registration, login, and private messaging UI.
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ibhimwhar/chat-app-client.git
 cd client
 npm install
